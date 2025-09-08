@@ -82,7 +82,7 @@ export const Default: Story = {
     children: 'Click Me',
     variant: 'default',
     size: 'default',
-    isLoading: false,
+    isLoading: true,
     disabled: false,
   },
 };
